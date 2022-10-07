@@ -1,0 +1,26 @@
+com/example/temparaturechecker/NewTemparature.java
+ com.example.temparaturechecker.NewTemparature
+ com.example.temparaturechecker.NewTemparature$1
+ com.example.temparaturechecker.NewTemparature$weatherTask
+com/example/temparaturechecker/BuildConfig.java
+ com.example.temparaturechecker.BuildConfig
+com/example/temparaturechecker/roomtemparature.java
+ com.example.temparaturechecker.roomtemparature
+com/example/temparaturechecker/HttpRequest.java
+ com.example.temparaturechecker.HttpRequest
+com/example/temparaturechecker/LocationTemperature.java
+ com.example.temparaturechecker.LocationTemperature
+ com.example.temparaturechecker.LocationTemperature$1
+ com.example.temparaturechecker.LocationTemperature$2
+ com.example.temparaturechecker.LocationTemperature$3
+com/example/temparaturechecker/splash.java
+ com.example.temparaturechecker.splash
+ com.example.temparaturechecker.splash$1
+com/example/temparaturechecker/MainActivity.java
+ com.example.temparaturechecker.MainActivity
+ com.example.temparaturechecker.MainActivity$1
+ com.example.temparaturechecker.MainActivity$2
+com/example/temparaturechecker/rating.java
+ com.example.temparaturechecker.rating
+ com.example.temparaturechecker.rating$1
+ com.example.temparaturechecker.rating$2
